@@ -26,6 +26,6 @@ Outside of business software, I enjoy game development, AI, cybersecurity, autom
 
 ## Connect
 
-* LinkedIn: Add your LinkedIn URL here
+* LinkedIn: www.linkedin.com/in/brucekuka
 * Website: https://www.aprotome.com
 * Email: bruce@aprotome.com
