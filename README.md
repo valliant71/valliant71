@@ -28,4 +28,4 @@ Outside of business software, I enjoy game development, AI, cybersecurity, autom
 
 * LinkedIn: Add your LinkedIn URL here
 * Website: https://www.aprotome.com
-* Email: Use your professional email here
+* Email: bruce@aprotome.com
